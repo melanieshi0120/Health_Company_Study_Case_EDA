@@ -1,4 +1,4 @@
-## Data_scientist_intern_assignment
+# Health Company Study Case - EDA
 ## Data Cleaning
 ## EDA
 ### Distribution of categorical data
